@@ -6,5 +6,5 @@ extern char **environ;
 int main()
 {
   system("ls");
-  return ;
+  return 0;
  }
